@@ -13,4 +13,4 @@
 
 tree /F
 
-![Structure of the project](./img/structure.ipg)
+![Structure of the project](./img/structure.jpg)
