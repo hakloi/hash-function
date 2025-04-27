@@ -11,3 +11,6 @@
 
 ## Структура:
 
+tree /F
+
+![Structure of the project](./img/structure.ipg)
