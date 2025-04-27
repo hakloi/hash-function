@@ -14,3 +14,12 @@
 tree /F
 
 ![Structure of the project](./img/structure.jpg)
+
+## Запуск тестов:
+
+> pip install -r requirements.txt
+> python -m unittest tests/test_hash.py
+
+## Запуск основного скрипта:
+
+> python main.py
